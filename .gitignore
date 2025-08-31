@@ -1,0 +1,5 @@
+.env
+resource/
+logs/
+storage/
+QASystem_with_Haystack.egg-info

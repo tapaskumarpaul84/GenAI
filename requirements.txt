@@ -1,0 +1,13 @@
+langchain
+langchain-openai
+openai
+tiktoken
+rapidocr-onnxruntime
+langchain-core
+langchain-community
+langchain-google-genai
+weaviate-client
+haystack-ai
+datasets
+pydantic
+
