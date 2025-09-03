@@ -3,3 +3,8 @@ resource/
 logs/
 storage/
 QASystem_with_Haystack.egg-info
+data/
+dbstore/
+Opt/
+data/
+.txt

@@ -10,4 +10,5 @@ weaviate-client
 haystack-ai
 datasets
 pydantic
+flashrank
 
